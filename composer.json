@@ -1,0 +1,13 @@
+{
+    "type": "library",
+    "name": "mailersoft/mailersoft",
+    "keywords": ["mailersoft"],
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "classmap": [
+            "/"
+        ]
+    }
+}
